@@ -1,7 +1,8 @@
 PROJECT TITLE: Paycheck Calculator
 PURPOSE OF PROJECT: To calculate the users paycheck
 VERSION or DATE: Ver 1.0.1
-HOW TO START THIS PROJECT: ```
+HOW TO START THIS PROJECT:
+```
 javac paycheck.java driver.java
 java driver.java
 ```
